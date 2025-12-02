@@ -36,11 +36,19 @@ Growth Marketing Specialist with 7 years of experience in merging paid media str
 />
 <img 
     align="left" 
+    alt="Tag Manager" 
+    title="Tag Manager"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/48/google-tag-manager.png" alt="google-tag-manager" 
+/>
+<img 
+    align="left" 
     alt="BigQuery" 
     title="BigQuery"
     width="30px" 
     style="padding-right: 10px;" 
-    src=" https://img.icons8.com/color/48/google-compute-engine.png " 
+    src="https://img.icons8.com/papercut/60/database-export.png" alt="database-export" 
 />
 <img 
     align="left" 
@@ -66,6 +74,4 @@ Growth Marketing Specialist with 7 years of experience in merging paid media str
     style="padding-right: 10px;" 
     src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-hubspot-a-developer-and-marketer-of-software-products-logo-color-tal-revivo.png" alt="external-hubspot-a-developer-and-marketer-of-software-products-logo-color-tal-revivo" 
 />
-
->
 

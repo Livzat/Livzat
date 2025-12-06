@@ -75,18 +75,6 @@ Performance-driven specialist with 7 years of experience transforming messy mark
     src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-hubspot-a-developer-and-marketer-of-software-products-logo-color-tal-revivo.png" alt="external-hubspot-a-developer-and-marketer-of-software-products-logo-color-tal-revivo" 
 />
 
-<br clear="left"/>
-
----
-
-### 🚀 Key Projects
-
-#### Outbound Sales Analytics Dashboard
-
-<a href="LINK_COMPLETO_DO_VIDEO_AQUI" target="_blank">
- <img src="https://img.youtube.com/vi/ID_DO_SEU_VIDEO_AQUI/maxresdefault.jpg" alt="Watch Video" width="30%" border="10" />
-</a>
-
 Designed and deployed a customized Looker Studio dashboard to monitor WhatsApp outbound campaigns in real-time.
 
 * **Impact:** Implemented A/B testing visualization to track copy performance, identifying a variation with a **47% response rate**.

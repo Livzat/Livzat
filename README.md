@@ -75,9 +75,4 @@ Performance-driven specialist with 7 years of experience transforming messy mark
     src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-hubspot-a-developer-and-marketer-of-software-products-logo-color-tal-revivo.png" alt="external-hubspot-a-developer-and-marketer-of-software-products-logo-color-tal-revivo" 
 />
 
-Designed and deployed a customized Looker Studio dashboard to monitor WhatsApp outbound campaigns in real-time.
-
-* **Impact:** Implemented A/B testing visualization to track copy performance, identifying a variation with a **47% response rate**.
-* **Efficiency:** Automated data cleaning and ID generation using Google Sheets ArrayFormulas, reducing manual reporting time.
-
-**🛠 Tech Stack:** `Looker Studio` `Google Sheets` `SQL (Custom Fields)`
+<br clear="left"/>

@@ -76,3 +76,20 @@ Performance-driven specialist with 7 years of experience transforming messy mark
 />
 
 <br clear="left"/>
+
+---
+
+### 🚀 Key Projects
+
+#### Outbound Sales Analytics Dashboard
+
+<a href="https://youtu.be/HX-BAIEG-uI" target="_blank">
+ <img src="https://img.youtube.com/vi/HX-BAIEG-uI/maxresdefault.jpg" alt="Watch Video" width="30%" border="10" />
+</a>
+
+Designed and deployed a customized Looker Studio dashboard to monitor WhatsApp outbound campaigns in real-time.
+
+* **Impact:** Implemented A/B testing visualization to track copy performance, identifying a variation with a **47% response rate**.
+* **Efficiency:** Automated data cleaning and ID generation using Google Sheets ArrayFormulas, reducing manual reporting time.
+
+**🛠 Tech Stack:** `Looker Studio` `Google Sheets` `SQL (Custom Fields)`

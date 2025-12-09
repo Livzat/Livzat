@@ -1,6 +1,10 @@
-# 🔗 Eduardo Livzat
+<h1 align="center">Hello, I'm Eduardo Livzat 👋</h1>
 
-**`Growth Marketing Specialist`**
+
+
+<h3 align="center">
+  <strong><code>Growth Marketing Manager</code></strong>
+</h3>
 
 Performance-driven specialist with 7 years of experience transforming messy marketing data into revenue engines. I move beyond simple media buying to build "self-driving" growth systems using n8n, SQL, and HubSpot. Proven track record of managing $85k+ monthly ad spend while architecting the data pipelines that track LTV and ROAS effectively.
 
@@ -81,15 +85,30 @@ Performance-driven specialist with 7 years of experience transforming messy mark
 
 ### 🚀 Key Projects
 
-#### Outbound Sales Analytics Dashboard
-
-<a href="https://youtu.be/HX-BAIEG-uI" target="_blank">
- <img src="https://img.youtube.com/vi/HX-BAIEG-uI/hqdefault.jpg" alt="Watch Video" width="30%" border="10" />
-</a>
-
-Designed and deployed a customized Looker Studio dashboard to monitor WhatsApp outbound campaigns in real-time.
-
-* **Impact:** Implemented A/B testing visualization to track copy performance, identifying a variation with a **47% response rate**.
-* **Efficiency:** Automated data cleaning and ID generation using Google Sheets ArrayFormulas, reducing manual reporting time.
-
-**🛠 Tech Stack:** `Looker Studio` `Google Sheets` `SQL (Custom Fields)`
+<table width="50%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Outbound Sales Analytics</h3>
+      <div align="center">
+        <a href="https://youtu.be/HX-BAIEG-uI" target="_blank">
+          <img src="https://github.com/Livzat/images/blob/main/Gemini_Generated_Image_q34i3lq34i3lq34i-min%20(1).png?raw=t" alt="Outbound Dashboard" width="100%" style="border-radius: 10px;" />
+        </a>
+      </div>
+      <br />
+      <p>
+        Designed and deployed a customized Looker Studio dashboard to monitor WhatsApp outbound campaigns in real-time.
+      </p>
+      <ul>
+        <li>
+          <b>Impact:</b> Implemented A/B testing visualization to track copy performance, identifying a variation with a <b>47% response rate</b>.
+        </li>
+        <li>
+          <b>Efficiency:</b> Automated data cleaning and ID generation using Google Sheets ArrayFormulas.
+        </li>
+      </ul>
+      <p>
+        <b>🛠 Tech Stack:</b><br />
+        <code>Looker Studio</code> <code>Google Sheets</code> <code>SQL</code>
+      </p>
+    </td>
+    

@@ -6,10 +6,7 @@
   <strong><code>Growth Marketing Manager</code></strong>
 </h3>
 
-<h3 align="center">📸 Galeria de Gerenciamento</h3>
-<p align="center">
-  <img src="https://s8.ezgif.com/tmp/ezgif-8ddc901698d1b485.gif" width="100%" style="border-radius: 8px;">
-</p>
+
 
 Performance-driven specialist with 7 years of experience transforming messy marketing data into revenue engines. I move beyond simple media buying to build "self-driving" growth systems using n8n, SQL, and HubSpot. Proven track record of managing $85k+ monthly ad spend while architecting the data pipelines that track LTV and ROAS effectively.
 
